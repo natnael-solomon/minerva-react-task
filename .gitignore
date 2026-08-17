@@ -45,3 +45,7 @@ next-env.d.ts
 # rendered email previews (`npm run email:preview`) — build output, not source
 .email-preview/
 
+
+# Playwright (KAN-60)
+/playwright-report
+/test-results
